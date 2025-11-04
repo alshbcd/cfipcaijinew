@@ -32,7 +32,7 @@ jobs:
       # 执行
       - name: Run scripts
         run: |
-          python ${{ github.workspace }}/collect_ips.py
+          python ${{ github.workspace }}/collect_ips_mine.py
 
       - name: Commit and push changes
         run: |
