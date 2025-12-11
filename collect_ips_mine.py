@@ -6,7 +6,7 @@ import os
 
 # 目标URL列表
 urls = [
-    # 'https://ip.164746.xyz', 
+    'https://ip.164746.xyz', 
     # 'https://ip.haogege.xyz/',
     # 'https://cf.090227.xyz',
     # 'https://ct.090227.xyz',
